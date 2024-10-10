@@ -1,8 +1,6 @@
 import streamlit as st
 import pandas as pd
-from functions import rentroll
-from functions import cashflow
-from functions import investmentcal
+from functions import rentroll, cashflow, investmentcal
 
 
 # Function definitions for each page
