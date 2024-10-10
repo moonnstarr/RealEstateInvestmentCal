@@ -23,6 +23,9 @@ def cashflow_page():
     pass  # Placeholder for the Cashflow code code
 
 
+# Wide theme
+st.set_page_config(layout="wide")
+
 # Sidebar for navigation
 st.sidebar.title("Navigation")
 page = st.sidebar.radio(
