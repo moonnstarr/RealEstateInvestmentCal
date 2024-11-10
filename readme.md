@@ -3,7 +3,7 @@
 ## Overview
 
 The **Real Estate Investment Calculator** is a web application developed using Streamlit that helps investors analyze potential real estate investments. This app allows users to input various parameters related to property details, operating expenses, and additional inputs to calculate key financial metrics, including Net Sales Proceeds, Annual ROI, Unleveraged IRR, and Leveraged IRR.
-
+![alt text](<Streamlit Realestate Investment Calculator.png>)
 ## Features
 
 - **Investment Calculator Page**: Users can input property details and operating expenses to calculate essential investment metrics.
